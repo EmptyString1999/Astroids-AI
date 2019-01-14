@@ -1,2 +1,2 @@
 # Astroids-AI
-An AI to play the classic game asteroids based on the Atari variant using PyTorch and Open AI Gym
+An AI to play the classic game space invaders based on the Atari variant using PyTorch and Open AI Gym
